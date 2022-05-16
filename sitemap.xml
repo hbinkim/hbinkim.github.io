@@ -2,16 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://diglog.io/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/tags/operator/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/tags/postgres/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/posts/postgres-operator/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/posts/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/tags/</loc>
+    <lastmod>2022-04-20T10:51:09+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/tags/%EB%8F%85%ED%9B%84%EA%B0%90/</loc>
+    <lastmod>2021-02-14T12:53:00+09:00</lastmod>
+  </url><url>
+    <loc>https://diglog.io/posts/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0/</loc>
+    <lastmod>2021-02-14T12:53:00+09:00</lastmod>
+  </url><url>
     <loc>https://diglog.io/about/</loc>
   </url><url>
     <loc>https://diglog.io/archives/</loc>
   </url><url>
     <loc>https://diglog.io/categories/</loc>
   </url><url>
-    <loc>https://diglog.io/</loc>
-  </url><url>
     <loc>https://diglog.io/search/</loc>
-  </url><url>
-    <loc>https://diglog.io/tags/</loc>
   </url>
 </urlset>

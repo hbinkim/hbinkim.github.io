@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postgres on Diglog</title>
+    <link>https://diglog.io/tags/postgres/</link>
+    <description>Recent content in Postgres on Diglog</description>
+    <image>
+      <url>https://diglog.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://diglog.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 10:51:09 +0900</lastBuildDate><atom:link href="https://diglog.io/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postgres Operator</title>
+      <link>https://diglog.io/posts/postgres-operator/</link>
+      <pubDate>Wed, 20 Apr 2022 10:51:09 +0900</pubDate>
+      
+      <guid>https://diglog.io/posts/postgres-operator/</guid>
+      <description>오픈소스 Postgres Operator 소개글</description>
+    </item>
+    
+  </channel>
+</rss>
