@@ -5,10 +5,10 @@
     <loc>https://diglog.io/</loc>
     <lastmod>2022-04-20T10:51:09+09:00</lastmod>
   </url><url>
-    <loc>https://diglog.io/tags/operator/</loc>
+    <loc>https://diglog.io/tags/k8s-operator/</loc>
     <lastmod>2022-04-20T10:51:09+09:00</lastmod>
   </url><url>
-    <loc>https://diglog.io/tags/postgres/</loc>
+    <loc>https://diglog.io/tags/postgres-operator/</loc>
     <lastmod>2022-04-20T10:51:09+09:00</lastmod>
   </url><url>
     <loc>https://diglog.io/posts/postgres-operator/</loc>

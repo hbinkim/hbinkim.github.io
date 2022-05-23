@@ -17,7 +17,7 @@
       <pubDate>Wed, 20 Apr 2022 10:51:09 +0900</pubDate>
       
       <guid>https://diglog.io/posts/postgres-operator/</guid>
-      <description>오픈소스 Postgres Operator 소개글</description>
+      <description>Comparing K8s operators for PostgreSQL: Zalando and Crunchy Data</description>
     </item>
     
     <item>

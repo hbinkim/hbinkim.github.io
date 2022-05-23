@@ -12,20 +12,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2022 10:51:09 +0900</lastBuildDate><atom:link href="https://diglog.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Operator</title>
-      <link>https://diglog.io/tags/operator/</link>
+      <title>K8s Operator</title>
+      <link>https://diglog.io/tags/k8s-operator/</link>
       <pubDate>Wed, 20 Apr 2022 10:51:09 +0900</pubDate>
       
-      <guid>https://diglog.io/tags/operator/</guid>
+      <guid>https://diglog.io/tags/k8s-operator/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Postgres</title>
-      <link>https://diglog.io/tags/postgres/</link>
+      <title>Postgres Operator</title>
+      <link>https://diglog.io/tags/postgres-operator/</link>
       <pubDate>Wed, 20 Apr 2022 10:51:09 +0900</pubDate>
       
-      <guid>https://diglog.io/tags/postgres/</guid>
+      <guid>https://diglog.io/tags/postgres-operator/</guid>
       <description></description>
     </item>
     
